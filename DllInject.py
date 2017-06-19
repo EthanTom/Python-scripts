@@ -14,8 +14,7 @@ def main(args):
 	imm.log("                                /_L_/")
 	imm.log("								 //")
 	imm.log("							   /_/")
-	imm.log("\nCreated By - Sh4d0w-l0rd")
-	imm.log("www.fb.com/nizamul.haq.129")
+	imm.log("\nCreated By - @Ice3man")
 
 	if not args:
 		imm.log("\n[!] Not Enough Arguments. ")
