@@ -100,9 +100,8 @@ else:
             self.DARKCYAN = ''
 
 print(bcolors.BLUE + "\n[---]           The ShaDoW SheLL             [---]" + bcolors.ENDC)
-print(bcolors.BLUE + "[---]         Coded by : Sh4d0w-l0rd         [---]" + bcolors.ENDC)
+print(bcolors.BLUE + "[---]         Coded by : @Ice3man            [---]" + bcolors.ENDC)
 print(bcolors.BOLD + "[---]           Version : 1.0                [---]" + bcolors.ENDC)
-print(bcolors.BOLD + "[---]    On FB - www.fb.com/nizamul.haq.129  [---]" + bcolors.ENDC)
 print(bcolors.GREEN + "\nThis Program lets you create your own simple php shells which can provide you the ability to connect to exploited web servers and send commands to them. \n Notice : The Author is not responsible for your actions" + bcolors.ENDC)
 print("1) Create a php Shell")
 print("2) Connect to a shell online")
